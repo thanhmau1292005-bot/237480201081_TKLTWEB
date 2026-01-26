@@ -12,7 +12,7 @@ table, th, td {
     text-align: center;
 }
 
-/* Mặc định không in đậm cho tất cả (để các môn học là chữ thường) */
+/* Mặc định*/
 th {
     font-weight: normal;
 }
